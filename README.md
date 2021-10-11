@@ -11,7 +11,7 @@ En este ejercicio, aprendimos a manejar los siguientes temas:
 
  - [x] Tarea completada
 
- [Link del ejercicio1](https://github.com/jesusocampo1105/Comando>
+ [Link del ejercicio1](https://github.com/jesusocampo1105/Comando)<br>
 
 ![Gracias academia Geek](https://image.shutterstock.com/image-vector/mission-complete-rubber-stamp-grunge-600w-1430453804.jpg)
 
